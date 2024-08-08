@@ -1,9 +1,11 @@
-# Comparative Analysis of Pancreatic Ductal Adenocarcinoma (PDAC) Sequencing Data
+# Comparative Analysis of Pancreatic Ductal Adenocarcinoma (PDAC) High-Throughput Sequencing Data
 In this project, we aim to compare the gene expression profile of four sets of pancreatic samples:
 1. Normal pancreas
 2. Resectable PDAC
 3. Metastatic PDAC
 4. Matched PDAC liver metastasis  
+  
+The primary goal of this investigation is to delineate the trajectory that a pancreatic cell takes from the earliest stage of malignancy until a distant overt metastasis. Our anticipation would be to find some targets and markers that aid clinicians in recognizing cancer cells at different stages.  
   
 To perform this, we gathered publicly available scRNA-seq data from Zhang et al (https://doi.org/10.1038/s41467-023-40727-7) and Chen et al (https://doi.org/10.1186/s12967-023-04051-4). Having aligned the data to the GRCh38 human genome reference using Cell Ranger, the data was preprocessed and integrated using Seurat and Harmony packages.  
 This is an ongoing project and the results are still under interpretation.  
