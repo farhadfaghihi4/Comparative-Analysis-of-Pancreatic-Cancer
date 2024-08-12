@@ -45,3 +45,6 @@ The following figures represent a part of the analyses that have been performed 
   
 **Figure11- Kaplan-Meier survival analysis of CSC genes (CD24, CD44, PROM1, ALDH1A1, CD9, SLC1A5):**  
 <img src="/11- Kaplan-Meier survival analysis of CSC genes.JPG" alt="Kaplan-Meier survival analysis of CSC genes" class="center" width="850">
+  
+**Figure12- CNV analysis of one of the samples using the InferCNV package:**  
+<img src="/12- InferCNV analysis on one of the samples.png" alt="CNV analysis of one of the samples using InferCNV package" class="center" width="850">
